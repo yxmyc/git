@@ -13,3 +13,7 @@ Python 学习与练习代码。
 |---|---|
 | `lab2_*.py` | LeetCode 练习题实现 |
 | `hello_world.py` 等 | 基础语法练习 |
+
+## 文档
+- [GIT_CHEATSHEET.md](GIT_CHEATSHEET.md) —— Git 常用命令小抄
+
